@@ -1,0 +1,38 @@
+body{
+    background-color: darkgrey;
+}
+.items{
+    text-align: center;
+    font-family: "Gisha";
+
+}
+.card{
+    max-width:18rem;
+}
+.img{
+    max-width:286px;
+    height: 160px;
+}
+.items h5{
+    font-weight: bold;
+}
+.items span{
+    display:flex;
+    align-content: space-between;
+}
+.side{
+    display:flex;
+    flex-flow: column wrap;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 4em;
+
+}
+.checkbox{
+}
+
+.custom-select{
+
+    border-color: darkgrey;
+
+}
